@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hi, I'm Marlon
 
-<!--
-**Marlonm0987/Marlonm0987** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI Engineer | Automation | RAG | Backend
 
-Here are some ideas to get you started:
+I'm passionate about building useful products with AI, LLMs and automation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Current Focus
+
+- AI Agents
+- RAG Systems
+- Graph RAG
+- Python
+- TypeScript
+- Docker
+- OpenAI
+- Ollama
+
+## 📌 Current Projects
+
+- Hermes
+- Nebula Vault
+- AI Automation
+- Local LLM Experiments
+
+## 🌎 Based in
+
+📍 Medellín, Colombia
+
+## 🤝 Let's connect
+
+LinkedIn
